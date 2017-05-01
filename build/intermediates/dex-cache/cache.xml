@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\android_project\JwtUpdate_new\app\libs\comm_xml_parser.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="a45340ed0c6badb9dba59f668289980a64bf83c1">
+        <dex dex="D:\android_project\JwtUpdate_new\app\build\intermediates\transforms\dex\debug\folders\1000\2\comm_xml_parser_6cc7cf50812b700869596b4bdfe5cf9f4b53f5e6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android_project\JwtUpdate_new\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="e335cd5fbfded102794f1d014d2713728c11127e">
+        <dex dex="D:\android_project\JwtUpdate_new\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_7bec1e418db60f3a97711fcaebbef2f9d403ae41\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android_project\JwtUpdate_new\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="53896cefcd55d3b7fae60ba71c8c1e5c0a9e4373">
+        <dex dex="D:\android_project\JwtUpdate_new\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_c6cb233452144729aba8ae0b98e93abd06c0cd6e\classes.dex" />
+    </item>
+
+</items>

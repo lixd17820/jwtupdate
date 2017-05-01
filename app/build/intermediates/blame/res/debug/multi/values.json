@@ -1,0 +1,47 @@
+[
+    {
+        "outputFile": "D:\\android_project\\JwtUpdate_new\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 43,
+                    "endOffset": 94
+                },
+                "from": {
+                    "file": "D:\\android_project\\JwtUpdate_new\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 1,
+                        "startColumn": 4,
+                        "startOffset": 16,
+                        "endColumn": 43,
+                        "endOffset": 55
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 99,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 172
+                },
+                "from": {
+                    "file": "D:\\android_project\\JwtUpdate_new\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 76,
+                        "endLine": 3,
+                        "endColumn": 12,
+                        "endOffset": 149
+                    }
+                }
+            }
+        ]
+    }
+]

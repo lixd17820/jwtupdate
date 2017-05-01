@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\android_project\\JwtUpdate_new\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_list_item.xml",
+        "source": "D:\\android_project\\JwtUpdate_new\\app\\src\\main\\res\\layout\\select_list_item.xml"
+    },
+    {
+        "merged": "D:\\android_project\\JwtUpdate_new\\app\\build\\intermediates\\res\\merged\\debug\\layout\\comm_two_btn_show_list.xml",
+        "source": "D:\\android_project\\JwtUpdate_new\\app\\src\\main\\res\\layout\\comm_two_btn_show_list.xml"
+    },
+    {
+        "merged": "D:\\android_project\\JwtUpdate_new\\app\\build\\intermediates\\res\\merged\\debug\\layout\\login_check.xml",
+        "source": "D:\\android_project\\JwtUpdate_new\\app\\src\\main\\res\\layout\\login_check.xml"
+    }
+]

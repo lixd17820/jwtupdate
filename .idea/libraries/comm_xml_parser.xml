@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="comm_xml_parser">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/comm_xml_parser.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

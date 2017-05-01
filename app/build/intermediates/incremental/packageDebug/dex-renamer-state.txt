@@ -1,0 +1,7 @@
+#Mon Feb 06 16:46:09 CST 2017
+base.0=D\:\\android_project\\JwtUpdate_new\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_7bec1e418db60f3a97711fcaebbef2f9d403ae41
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\android_project\\JwtUpdate_new\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_c6cb233452144729aba8ae0b98e93abd06c0cd6e\\classes.dex
+base.1=D\:\\android_project\\JwtUpdate_new\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_c6cb233452144729aba8ae0b98e93abd06c0cd6e
+file.0=D\:\\android_project\\JwtUpdate_new\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_7bec1e418db60f3a97711fcaebbef2f9d403ae41\\classes.dex
